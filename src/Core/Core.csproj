@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>TronWallet.Core</RootNamespace>
+    <AssemblyName>TronWallet.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
