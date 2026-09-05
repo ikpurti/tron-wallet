@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>TronWallet.Cryptography</RootNamespace>
+    <AssemblyName>TronWallet.Cryptography</AssemblyName>
+    <Description>BIP-39/32 derivation, vault encryption, codecs and signing.</Description>
+  </PropertyGroup>
+</Project>
